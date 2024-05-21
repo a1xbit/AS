@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alexander! <br/><a href="https://github.com/alxbit">Information Systems & Security</a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> Cybersecurity Projects:</h2>
 
 - <b>Black Box Pentration Testing </b>
   - [Practicing Penetration Testing via Virtual Machine](https://github.com/a1xbit/BlackBoxPenetrationTesting/)
