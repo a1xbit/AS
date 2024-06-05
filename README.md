@@ -4,10 +4,6 @@
 
 - <b>Black Box Pentration Testing</b>
   - [Practicing Penetration Testing via Virtual Machine](https://github.com/a1xbit/BlackBoxPenetrationTesting/)
-- <b>Microsoft Azure Sentinel</b>
-  - [Real-Time Security Information & Event Management](https://github.com/) </b>
-- <b>Active Directory Lab</b>
-  - [Windows Domain Network for the Organization & Management of Users](https://github.com/)
 - <b>Decloaking VPN</b>
   - [Manipulate VPN Traffic on a Local Network](https://github.com/a1xbit/DecloakingVPN/)
 - <b>Python Port Scanner</b>
